@@ -1,5 +1,5 @@
 # Ebay Car Sales Data Exploration
-This project deals with analyzing and cleaning the ebay car sales data
+This project deals with analyzing and cleaning the ebay car sales data.
 
 In this project, we are working with a dataset of used cars from eBay Kleinanzeigan, a classifieds of the German Ebay website.
 
