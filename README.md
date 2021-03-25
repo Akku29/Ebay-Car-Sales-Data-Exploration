@@ -1,5 +1,6 @@
 # Ebay Car Sales Data Exploration
- Analyzing and cleaning the ebay car sales data
+This project deals with analyzing and cleaning the ebay car sales data
+
 In this project, we are working with a dataset of used cars from eBay Kleinanzeigan, a classifieds of the German Ebay website.
 
 The dataset was orginally scraped and uploaded to kaggle by user 'orgesleka'. The version of the dataset we are working with is a sample of 50,000 data points that was prepared by dataquest.
@@ -27,3 +28,5 @@ The data dictionary provided with the data is as follows: dateCrawled - When thi
 * nrOfPictures - The number of pictures in the ad.
 * postalCode - The postal code for the location of the vehicle.
 * lastSeenOnline - When the crawler saw this ad last online.
+
+This project utilizes data cleaning and data analysis using the python libraries such as Pandas and NumPy.
